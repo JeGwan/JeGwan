@@ -1,5 +1,7 @@
 ## 👨🏻‍💻 TypeScript FE Developer JeGwan
 
+
+
 ### ⚒️ TechStack
 
 #### Front-end(Web)
@@ -79,6 +81,10 @@ Mobile: React Native로 앱을 만들고 PlayStore, AppStore 크로스 플랫폼
 ### [📚 공부 기록](https://www.notion.so/immutable-e82ceab0c8734ba8a9eaaba5c27ff128)
 
 ### [🧑‍🎨 포트폴리오](https://superposition.link/portfolio.pdf)
+
+[![JeGwan's GitHub stats](https://github-readme-stats.vercel.app/api?username=JeGwan&count_private=true&show_icons=true&hide=stars,contribs&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeGwan&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **JeGwan/JeGwan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
