@@ -1,6 +1,6 @@
 ## 👨🏻‍💻 TypeScript FE Developer JeGwan [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJeGwan&count_bg=%230050ff&title_bg=%23555555&icon=powerbi.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-
+<img src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1627642843890.png" width="200" height="200" />
 
 ### ⚒️ TechStack
 
@@ -65,16 +65,6 @@
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat-square&logo=Adobe%20Photoshop&logoColor=white"/></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=flat-square&logo=Adobe%20Illustrator&logoColor=white"/></a>
-
-Language : TypeScript를 Full-stack 기본언어로 쓰고 있습니다.
-
-DB : 주로 RDBMS(PostgreSQL)를 쓰고 필요에 따라 NoSQL(MongoDB)도 씁니다. ORM으로 TypeORM을 씁니다.
-
-API : GraphQL API를 주로 쓰되 필요에 따라 REST API도 씁니다.
-
-Front-end : Next.js를 기본 프레임워크로 씁니다. 스타일 라이브러리로 styled-component를 씁니다.
-
-Mobile: React Native로 앱을 만들고 PlayStore, AppStore 크로스 플랫폼으로 배포한 경험이 있습니다.
 
 ### [👋 자기소개 페이지](https://superposition.link)
 
