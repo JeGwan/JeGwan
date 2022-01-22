@@ -1,4 +1,4 @@
-## 👨🏻‍💻 TypeScript FE Developer JeGwan [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJeGwan&count_bg=%230050ff&title_bg=%23555555&icon=powerbi.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+## 👨🏻‍💻 TypeScript Developer JeGwan [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJeGwan&count_bg=%230050ff&title_bg=%23555555&icon=powerbi.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <img src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1627642843890.png" width="200" height="200" />
 
@@ -22,7 +22,7 @@
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>
 
-#### Front-end(Mobile)
+#### Mobile
 
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/ReactNative-61DAFB?style=flat-square&logo=React&logoColor=black"/></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=Expo&logoColor=white"/></a>
