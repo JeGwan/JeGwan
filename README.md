@@ -66,8 +66,6 @@
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat-square&logo=Adobe%20Photoshop&logoColor=white"/></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=flat-square&logo=Adobe%20Illustrator&logoColor=white"/></a>
 
-### [👋 자기소개 페이지](https://superposition.link)
-
 ### [📚 공부 기록](https://www.notion.so/immutable-e82ceab0c8734ba8a9eaaba5c27ff128)
 
 ### [🧑‍🎨 포트폴리오](https://superposition.link/portfolio.pdf)
