@@ -1,4 +1,4 @@
-## 👨🏻‍💻 Software engineer JeGwan [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJeGwan&count_bg=%230050ff&title_bg=%23555555&icon=powerbi.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJeGwan&count_bg=%230050ff&title_bg=%23555555&icon=powerbi.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ### ⚒️ TechStack
 
@@ -64,25 +64,8 @@
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat-square&logo=Adobe%20Photoshop&logoColor=white"/></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=flat-square&logo=Adobe%20Illustrator&logoColor=white"/></a>
 
-### [📚 공부 기록](https://www.notion.so/immutable-e82ceab0c8734ba8a9eaaba5c27ff128)
-
-### [🧑‍🎨 포트폴리오](https://superposition.link/portfolio.pdf)
+### [🧑‍🎨 Portfolio](./portfolio.pdf)
 
 [![JeGwan's GitHub stats](https://github-readme-stats.vercel.app/api?username=JeGwan&count_private=true&show_icons=true&hide=stars,contribs&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeGwan&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-<!--
-**JeGwan/JeGwan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
