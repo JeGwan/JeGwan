@@ -23,7 +23,7 @@
 | **[Engram](https://github.com/JeGwan/engram)** | MCP server for Obsidian vault augmentation — FTS5, semantic search, knowledge graph |
 | **[Cosmos](https://github.com/JeGwan/cosmos)** | Custom AI agent framework `WIP` |
 | **[Intent Sharpening](https://github.com/cosmos-makers/intent-sharpening)** | Claude Code plugin — Socratic questioning to sharpen vague intentions into clear Intent Cards (6-axis clarity scoring) |
-| **Team Context** | Shared team knowledge mounting system for AI agents — mount/unmount/sync team docs into Claude Code *(internal)* |
+| **[Team Context](https://github.com/cosmos-makers/team-context)** | Shared team knowledge mounting system for AI agents — mount/unmount/sync team docs into Claude Code |
 | **[gongmyung-kanban](https://github.com/JeGwan/gongmyung-kanban)** | Lifecycle-tracking kanban with aging badges & WIP limits |
 
 ### 🤖 Claude Code Ecosystem
